@@ -1,0 +1,22 @@
+Merci de lire attentivement ce qui suit:
+
+	* Ce programme utilise un generateur de noms aleatoires SANS filtre.
+	  La presence de noms potentiellement offensants est possible, laquelle
+	  ne pourra etre retenue contre l'auteur.
+	  
+	* Chaque joueur n'est sense voir que les informations qu'il obtient durant
+	  son tour. Pour une experience de jeu optimale, il est donc recommande
+	  de faire face a l'ecran chacun a son tour.
+	  
+	* Cette version du jeu est tournee vers les jeux d'esprit et la prise de
+	  risques. Ainsi, vous pouvez mentir aux autres joueurs, tout comme les
+	  IA peuvent essayer de vous mentir. De meme, les denonciations sont
+	  simplifiees: un numero de compte et un contribuable seulement.
+	  Toutefois, un echec dans un mensonge ou une denonciation entraine
+	  une perte de Reputation, caracteristique vitale pour avancer.
+	  
+	* Afin de profiter au maximum des affichages quelque peu extensifs,
+	  il est recommande de mettre le terminal / la console en plein ecran.
+	  A titre d'exemple, la ligne ci-dessous devrait tenir en une ligne.
+	  
+█████████████████████████████████████████████████████████████████████████████████████████
